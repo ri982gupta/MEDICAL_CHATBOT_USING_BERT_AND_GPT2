@@ -6,4 +6,3 @@ It also involves retrieving previously answered question-answer pairs that are s
 
 Please refer to sample_input_output4.PNG image for sample input and output.
 
-Please go through the blog https://suniljammalamadaka.medium.com/medical-chatbot-using-bert-and-gpt2-62f0c973162f to know more.
